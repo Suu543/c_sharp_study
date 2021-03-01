@@ -1,0 +1,7 @@
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\bin\Debug\Primitive_Types_and_Expressions.exe.config
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\bin\Debug\Primitive_Types_and_Expressions.exe
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\bin\Debug\Primitive_Types_and_Expressions.pdb
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\obj\Debug\Primitive_Types_and_Expressions.csprojAssemblyReference.cache
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\obj\Debug\Primitive_Types_and_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\obj\Debug\Primitive_Types_and_Expressions.exe
+C:\Users\jos50\OneDrive\바탕 화면\c_sharp_study\Primitive_Types_and_Expressions\obj\Debug\Primitive_Types_and_Expressions.pdb
